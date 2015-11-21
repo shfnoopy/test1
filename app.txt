@@ -1,10 +1,5 @@
-hello 
+﻿hello 
 
-<<<<<<< HEAD
-
-
-branch2 
-...
-=======
-good 
->>>>>>> parent of a18d899... 第二个版本
+master
+v0.1 code
+abcdeflll
