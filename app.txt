@@ -1,4 +1,10 @@
 hello 
 
-good morning
-haha
+<<<<<<< HEAD
+
+
+branch2 
+...
+=======
+good 
+>>>>>>> parent of a18d899... 第二个版本
